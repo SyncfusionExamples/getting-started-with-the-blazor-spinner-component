@@ -39,7 +39,7 @@ This is a commercial product and requires a paid license for possession or use. 
 
 [Documentation](https://blazor.syncfusion.com/documentation/toolbar/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/toolbar/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-blazor-spinner-component?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
