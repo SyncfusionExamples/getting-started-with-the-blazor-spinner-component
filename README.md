@@ -1,5 +1,5 @@
 # Getting Started with the Blazor Spinner Component
-A quick-start project that shows how to getting started with the Syncfusion Blazor Spinner component in a Blazor WebAssembly application. This project contains the code snippet to show and hide spinners and use other customizations.
+The [Blazor Spinner](https://www.syncfusion.com/blazor-components/blazor-spinner?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github) denotes when long-running tasks are ongoing, tasks for which there is no information about their progress. A quick-start project that shows how to getting started with the Syncfusion Blazor Spinner component in a Blazor WebAssembly application. This project contains the code snippet to show and hide spinners and use other customizations.
 
 Documentation: https://blazor.syncfusion.com/documentation/spinner/getting-started
 
@@ -7,6 +7,9 @@ Online examples: https://blazor.syncfusion.com/demos/spinner/overview?theme=boot
 
 ## Project prerequisites
 Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/ ) and [.NET Core SDK 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) or later version in your machine before starting to work on this project.
+
+## How to run this application
+To run this application, you need to first clone the `getting-started-with-the-blazor-spinner-component` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
 
 * [System Requirements](https://blazor.syncfusion.com/documentation/system-requirements?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github)
 
@@ -28,6 +31,20 @@ Make sure that you have the compatible versions of [Visual Studio 2022](https://
 ### License
 
 This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github)
+
+## Features and Benefits
+
+## Customization
+
+The default appearance of the Blazor Spinner component can be [customized](https://blazor.syncfusion.com/documentation/spinner/customization) by changing its color and stroke width. Also, you can set the z-index for Blazor spinners dynamically based on application scenarios.
+
+## Visibility
+
+You can control the Blazor Spinner component’s visibility easily through a two-way binding property and asynchronous methods.
+
+## Descriptive labels
+
+Include labels with the Blazor Spinner component that give additional, meaningful information about the task currently running.
 
 ## Related links
 
