@@ -36,7 +36,7 @@ This is a commercial product and requires a paid license for possession or use. 
 
 ## Customization
 
-The default appearance of the Blazor Spinner component can be [customized](https://blazor.syncfusion.com/documentation/spinner/customization) by changing its color and stroke width. Also, you can set the z-index for Blazor spinners dynamically based on application scenarios.
+The default appearance of the Blazor Spinner component can be [customized](https://blazor.syncfusion.com/documentation/spinner/customization?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples) by changing its color and stroke width. Also, you can set the z-index for Blazor spinners dynamically based on application scenarios.
 
 ## Visibility
 
