@@ -11,7 +11,7 @@ Make sure that you have the compatible versions of [Visual Studio 2022](https://
 ## How to run this application
 To run this application, you need to first clone the `getting-started-with-the-blazor-spinner-component` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
 
-* [System Requirements](https://blazor.syncfusion.com/documentation/system-requirements?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
+* [System Requirements](https://blazor.syncfusion.com/documentation/system-requirements)
 
 ### Getting Started
 
