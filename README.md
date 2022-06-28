@@ -1,36 +1,11 @@
 # Getting Started with the Blazor Spinner Component
 The [Blazor Spinner](https://www.syncfusion.com/blazor-components/blazor-spinner?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples) denotes when long-running tasks are ongoing, tasks for which there is no information about their progress. A quick-start project that shows how to getting started with the Syncfusion Blazor Spinner component in a Blazor WebAssembly application. This project contains the code snippet to show and hide spinners and use other customizations.
 
-Documentation: https://blazor.syncfusion.com/documentation/spinner/getting-started
-
-Online examples: https://blazor.syncfusion.com/demos/spinner/overview?theme=bootstrap5
-
 ## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/ ) and [.NET Core SDK 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) or later version in your machine before starting to work on this project.
+Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) and [.NET Core SDK 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) or later version in your machine before starting to work on this project.
 
 ## How to run this application
 To run this application, you need to first clone the `getting-started-with-the-blazor-spinner-component` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
-
-* [System Requirements](https://blazor.syncfusion.com/documentation/system-requirements)
-
-### Getting Started
-
-* [Getting Started with Blazor Spinner](https://blazor.syncfusion.com/documentation/spinner/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
-
-### Help Resources
-
-* [Blazor Spinner Component Features Overview](https://www.syncfusion.com/blazor-components/blazor-spinner?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
-* [Blazor Spinner Component Documentation](https://blazor.syncfusion.com/documentation/spinner/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
-* [Blazor Spinner Component Demos](https://blazor.syncfusion.com/demos/spinner/overview?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
-
-### Support and feedbacks
-
-* For queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples) or post the queries through the [community forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples). 
-* Request new feature through [Syncfusion feedback portal](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples).
-
-### License
-
-This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
 ## Features and Benefits
 
