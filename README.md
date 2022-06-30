@@ -23,7 +23,7 @@ Labels that provide extra, valuable details about the task that is presently run
 
 ## Related links
 
-[Learn More about Blazor Spinner](https://www.syncfusion.com/blazor-components/blazor-spinner?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
+[Learn More about Blazor Spinner](https://www.syncfusion.com/blazor-components/blazor-spinner?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
@@ -44,7 +44,7 @@ Labels that provide extra, valuable details about the task that is presently run
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
 ## About Syncfusion Blazor Components
-The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Spinner, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram and Word Processor.
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Spinner, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram and Word Processor.
 
 ### About Syncfusion
 
