@@ -33,7 +33,7 @@ Labels that provide extra, valuable details about the task that is presently run
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
+[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
 [Documentation](https://blazor.syncfusion.com/documentation/spinner/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
@@ -43,12 +43,14 @@ Labels that provide extra, valuable details about the task that is presently run
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
-[Online example](https://blazor.syncfusion.com/demos/spinner/overview?theme=bootstrap5?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
+[Online example](https://blazor.syncfusion.com/demos/spinner/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
 [Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/spinner?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
 
+[Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples)
+
 ## About Syncfusion Blazor Components
-The Syncfusion's [Blazor Components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Spinner, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples).
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Spinner, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples).
 
 ### About Syncfusion
 
@@ -61,3 +63,4 @@ Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.
 <p align="center">
 <a href="mailto:sales@syncfusion.com?Subject=Syncfusion Blazor Spinner - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=blazor-spinner-github-samples">www.syncfusion.com</a>| Toll Free: 1-888-9 DOTNET <br>
 </p>
+
